@@ -11,7 +11,7 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,github,docker,linux,vscode,figma,dbeaver,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,github,docker,linux,vscode,figma,mysql,postgres,dbeaver,androidstudio&theme=dark" />
 </p>
 
 ### 🚀 My Most Used Languages
