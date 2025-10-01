@@ -2,7 +2,9 @@
 
 <h3 align="center">💻 A Computer Science Infrastructure Student 🌃</h3>
 
-<img align="right" alt="Cyberpunk coder" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+<br>
 
 ### 🌌 About Me
 - 🔭 Currently working on **Limbus Company Optimizer Webpage**
