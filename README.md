@@ -4,7 +4,7 @@
 
 ### 🌌 About Me
 <p align="left">
-I'm a aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.
+I'm an aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.
   
 💻 I have a strong foundation in programming languages such as Python, Java, C, PHP, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.
 
