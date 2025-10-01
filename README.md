@@ -4,10 +4,10 @@
 
 ### 🌌 About Me
 <p align="center">
-I'm a aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.  
-💻 I have a strong foundation in programming languages such as Python, Java, C, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.  
-🛠 I have developed several projects, including a online casino and currently working on a duo project webpage.  
-🌟 I'm passionate about technology, particularly artificial intelligence, Cyber Security and Web Development, and I constantly expand my knowledge through hands-on projects and certifications.  
+I'm a aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.<br>
+💻 I have a strong foundation in programming languages such as Python, Java, C, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.<br>
+🛠 I have developed several projects, including a online casino and currently working on a duo project webpage.<br>
+🌟 I'm passionate about technology, particularly artificial intelligence, Cyber Security and Web Development, and I constantly expand my knowledge through hands-on projects and certifications.<br>
 🌐 I am fluent in English and Spanish, with basics in Danish.
 </p>
 
