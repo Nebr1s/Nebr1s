@@ -9,7 +9,7 @@
 - 🌱 Upgrading my skills in **React.js**
 <!-- 📫 Contact: **[Your Email / Socials]**-->
 
-### 🛠 Languages & Tools
+### 🛠 Languages & Tools I Use
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,github,docker,linux,vscode,mysql,postgres,androidstudio&theme=dark" />
 </p>
@@ -21,3 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nebr1s&layout=compact&hide_border=true&bg_color=f5f5f5&title_color=c41e3a&text_color=1a1a1a&icon_color=ffb300" alt="langs" />
 </p>
 
+### 🎮 Gaming Setup
+<p align="center">
+  <img src="https://img.shields.io/badge/Steam-00adee?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PC-Gold?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
