@@ -17,7 +17,7 @@ I'm a aspiring Computer Science (Infrastructure) student at Technological Univer
 
 ### 🛠 Languages & Tools I Use
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,php,tailwind,github,docker,linux,vscode,mysql,postgres,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,php,tailwind,github,docker,linux,vscode,mysql,postgres,androidstudio&theme=dark" />
 </p>
 
 ### 🚀 My Most Used Languages
