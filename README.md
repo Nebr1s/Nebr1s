@@ -6,7 +6,7 @@
 <p align="left">
 I'm a aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.
   
-💻 I have a strong foundation in programming languages such as Python, Java, C, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.
+💻 I have a strong foundation in programming languages such as Python, Java, C, PHP, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.
 
 🛠 I have developed several projects, including a online casino and currently working on a duo project webpage.
 
@@ -17,7 +17,7 @@ I'm a aspiring Computer Science (Infrastructure) student at Technological Univer
 
 ### 🛠 Languages & Tools I Use
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,github,docker,linux,vscode,mysql,postgres,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,php,tailwind,github,docker,linux,vscode,mysql,postgres,androidstudio&theme=dark" />
 </p>
 
 ### 🚀 My Most Used Languages
