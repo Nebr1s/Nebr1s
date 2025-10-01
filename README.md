@@ -2,16 +2,16 @@
 
 <h3 align="center">💻 A Computer Science Infrastructure Student 🌃</h3>
 
-<p align="left" style="color:#1a1a1a;">
-I'm a dedicated <b style="color:#c41e3a;">Computer Science (Infrastructure)</b> student at <b style="color:#c41e3a;">Technological University Dublin</b>, graduating in 2026.  
+<p align="left">
+I'm a aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.  
 
-💻 I have a strong foundation in programming languages such as <b style="color:#ffb300;">Python</b>, <b style="color:#ffb300;">Java</b>, <b style="color:#ffb300;">C</b>, and <b style="color:#ffb300;">TypeScript</b>, and have honed skills in <b style="color:#c41e3a;">Web Development</b>, <b style="color:#c41e3a;">Networking</b> (Cisco Certified), and my <b style="color:#c41e3a;">CompTIA A+</b> certificate.  
+💻 I have a strong foundation in programming languages such as <b style="color:#ffb300;">Python</b>, <b style="color:#ffb300;">Java</b>, <b style="color:#ffb300;">C</b>, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.  
 
-🛠 I have developed several projects, including an <b style="color:#ffb300;">AI-powered Tic Tac Toe game</b> and a <b style="color:#ffb300;">language translation app</b>.  
+🛠 I have developed several projects, including an AI-powered Tic Tac Toe game</b> and a language translation app.  
 
-🌟 I'm passionate about <b style="color:#c41e3a;">technology</b>, particularly <b style="color:#ffb300;">artificial intelligence</b>, <b style="color:#c41e3a;">Cyber Security</b> and <b style="color:#ffb300;">Web Development</b>, and I constantly expand my knowledge through hands-on projects and certifications.  
+🌟 I'm passionate about technology, particularly artificial intelligence, Cyber Security and Web Development, and I constantly expand my knowledge through hands-on projects and certifications.  
 
-🌐 I am fluent in <b style="color:#ffb300;">English</b> and <b style="color:#ffb300;">Spanish</b>, with basics in <b style="color:#c41e3a;">Danish</b>.
+🌐 I am fluent in English and Spanish, with basics in Danish.
 </p>
 
 
