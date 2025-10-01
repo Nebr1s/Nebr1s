@@ -1,27 +1,19 @@
-<h2 align="center">Hello, I'm <span style="color:#c41e3a;">Erik Hansen</span> 👾</h2>
+<h2 align="center">Hello, I'm Erik Hansen 👾</h2>
 
 <h3 align="center">💻 A Computer Science Infrastructure Student 🌃</h3>
 
-<p align="left">
+### 🌌 About Me
+<p align="center">
 I'm a aspiring Computer Science (Infrastructure) student at Technological University Dublin, graduating in 2027.  
 
-💻 I have a strong foundation in programming languages such as <b style="color:#ffb300;">Python</b>, <b style="color:#ffb300;">Java</b>, <b style="color:#ffb300;">C</b>, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.  
+💻 I have a strong foundation in programming languages such as Python, Java, C, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.  
 
-🛠 I have developed several projects, including an AI-powered Tic Tac Toe game</b> and a language translation app.  
+🛠 I have developed several projects, including a online casino and currently working on a duo project webpage.  
 
 🌟 I'm passionate about technology, particularly artificial intelligence, Cyber Security and Web Development, and I constantly expand my knowledge through hands-on projects and certifications.  
 
 🌐 I am fluent in English and Spanish, with basics in Danish.
 </p>
-
-
-<!-- <img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">-->
-
-### 🌌 About Me
-- 🏫 Currently studying **Computer Science Infrastructure** at **Technological University Dublin**
-- 🔭 Currently working on **Limbus Company Optimizer Webpage** group project.
-- 🌱 Upgrading my skills in **React.js**
-<!-- 📫 Contact: **[Your Email / Socials]**-->
 
 ### 🛠 Languages & Tools I Use
 <p align="center">
