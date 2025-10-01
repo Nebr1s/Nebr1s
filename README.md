@@ -10,7 +10,7 @@ I'm a aspiring Computer Science (Infrastructure) student at Technological Univer
 
 🛠 I have developed several projects, including a online casino and currently working on a duo project webpage.
 
-🌟 I'm passionate about technology, particularly Cyber Security, Web Development and artificial intelligence, in adition I constantly expand my knowledge through hands-on projects and certifications.
+🌟 I'm passionate about technology, particularly Cyber Security, Web Development and Artificial Intelligence, in adition I constantly expand my knowledge through hands-on projects and certifications.
 
 🌐 I am fluent in English and Spanish, with basics in Danish.
 </p>
