@@ -33,3 +33,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/erik-hansen-nebris"><img src="https://img.shields.io/badge/LinkedIn-c41e3a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+[![Recent Game](https://steam-readme-stats.uwu.gal/api/ejgamer19/stats/badge/recent_game)](https://steam-readme-stats.uwu.gal/)
