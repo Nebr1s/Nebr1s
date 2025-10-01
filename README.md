@@ -28,3 +28,8 @@
   <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
   <img src="https://img.shields.io/badge/PC-Gold?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/erik-hansen-nebris"><img src="https://img.shields.io/badge/LinkedIn-c41e3a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
