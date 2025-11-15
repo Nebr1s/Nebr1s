@@ -17,7 +17,7 @@ I am fluent in English and Spanish, with basics in Danish.
 
 ### Personal Moto
 <p align="center">
-Fear is but a smokescreen that can lead to a better tomorrow.
+> Fear is but a smokescreen that can lead to a better tomorrow.
 </p>
 
 ### Languages & Tools I Use
