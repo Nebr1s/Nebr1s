@@ -15,6 +15,11 @@ I'm passionate about technology, particularly Cyber Security, Web Development an
 I am fluent in English and Spanish, with basics in Danish.
 </p>
 
+### Personal Moto
+<p align="center">
+Fear is but a smokescreen that can lead to a better tomorrow.
+</p>
+
 ### Languages & Tools I Use
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,nextjs,html,css,php,tailwind,git,github,docker,linux,vscode,mysql,postgres,kotlin,kubernetes,androidstudio&theme=dark" />
