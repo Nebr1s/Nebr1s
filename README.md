@@ -15,7 +15,7 @@ I'm passionate about technology, particularly Cyber Security, Web Development an
 I am fluent in English and Spanish, with basics in Danish.
 </p>
 
-### Personal Moto
+### Personal Motto
 
 > Fear is but a smokescreen that can lead to a better tomorrow.
 
