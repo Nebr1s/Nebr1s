@@ -21,7 +21,7 @@ I am fluent in English and Spanish, with basics in Danish.
 
 ### Languages & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,nextjs,html,css,php,tailwind,git,github,docker,linux,vscode,mysql,postgres,kotlin,kubernetes,mongodb,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,nextjs,html,css,php,tailwind,git,github,docker,kubernetes,linux,vscode,mysql,mongodb,postgres,androidstudio,kotlin&theme=dark" />
 </p>
 
 ### My Most Used Languages
