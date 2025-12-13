@@ -17,7 +17,7 @@ I am fluent in English and Spanish, with basics in Danish.
 
 ### Personal Motto
 
-> Fear is but a smokescreen that can lead to a better tomorrow.
+> Let us not forget that we're invited to a lifelong party, it's rude to overstay.
 
 ### Languages & Tools I Use
 <p align="center">
