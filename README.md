@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Erik Hansen </h2>
 
-<h3 align="center">A Computer Science Infrastructure Student</h3>
+<h3 align="center">A Computer Science Infrastructure Student and Upcomming Intern at IBM</h3>
 
 ### About Me
 <p align="left">
@@ -8,7 +8,7 @@ I'm an aspiring Computer Science (Infrastructure) student at Technological Unive
   
 I have a strong foundation in programming languages such as Python, Java, C, PHP, and TypeScript, and have honed skills in Web Development, Networking (Cisco Certified), and my CompTIA A+ certificate.
 
-I have developed several projects, including a online casino and currently working on a duo project webpage.
+I have developed several projects, including a online casino and an Android app.
 
 I'm passionate about technology, particularly Cyber Security, Web Development and Artificial Intelligence, in adition I constantly expand my knowledge through hands-on projects and certifications.
 
