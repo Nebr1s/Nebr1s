@@ -15,10 +15,6 @@ I'm passionate about technology, particularly Cyber Security, Web Development an
 I am fluent in English and Spanish, with basics in Danish.
 </p>
 
-### Personal Motto
-
-> Let us not forget that we're invited to a lifelong party, it's rude to overstay.
-
 ### Languages & Tools I Use
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,nextjs,html,css,php,tailwind,git,github,docker,kubernetes,linux,vscode,mysql,mongodb,postgres,androidstudio,kotlin&theme=dark" />
