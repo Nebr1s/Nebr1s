@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Erik Hansen </h2>
 
-<h3 align="center">A Computer Science Infrastructure Student and Upcomming Intern at IBM</h3>
+<h3 align="center">A Computer Science Infrastructure Student and Software Dveloper Intern at IBM</h3>
 
 ### About Me
 <p align="left">
